@@ -2,6 +2,8 @@ package ru.gb.java_core;
 
 public class Main {
 
+    // обход массива в один поток
+
     static final int size = 10000000;
     static final int h = size / 2;
 
