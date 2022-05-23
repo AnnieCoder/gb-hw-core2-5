@@ -9,6 +9,8 @@ public class MainThread {
 
     public static void main(String[] args) {
 
+        // обход массива в два потока
+
         float[] arr = new float[size];
         float[] arr1 = new float[h];
         float[] arr2 = new float[h];
